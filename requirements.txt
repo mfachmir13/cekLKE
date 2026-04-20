@@ -1,0 +1,6 @@
+# Requirements for Excel and Google Drive handling
+
+openpyxl==3.0.10
+pandas==1.3.5
+gspread==5.0.0
+authgoogle==0.1.0
